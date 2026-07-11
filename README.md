@@ -96,11 +96,19 @@ Interview-focused DSA solutions in Python with clean code.
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 GitHub Streak
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Erzaid04&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Erzaid04/Erzaid04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p> 
 
 ---
 
@@ -125,14 +133,6 @@ Interview-focused DSA solutions in Python with clean code.
 <p align="center">
 💡 Consistently solving DSA problems and maintaining clean, interview-focused Python solutions.
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erzaid04/Erzaid04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p> 
 
 ---
 
