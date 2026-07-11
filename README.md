@@ -5,7 +5,7 @@ Backend Developer • Python • FastAPI • SQL • REST APIs
 </h3>
 
 <p align="center">
-Passionate about building scalable backend applications and solving Data Structures & Algorithms problems.
+Passionate about building scalable backend systems and solving real-world problems through software.
 </p>
 
 <p align="center">
@@ -17,17 +17,18 @@ Passionate about building scalable backend applications and solving Data Structu
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Erzaid04&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Erzaid04&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🔭 Currently building **ScrapFlow AI**, an AI-powered Backend SaaS platform using **FastAPI**, **SQLAlchemy**, and **MySQL**
-- 🌱 Learning **Backend Engineering**, **System Design**, and **Data Structures & Algorithms**
+- 🎓 Computer Engineering Student (Class of 2027)
+- 🔭 Currently building **[ScrapFlow AI](https://github.com/Erzaid04/scrapflow-ai)** — an AI-powered Backend SaaS platform using **FastAPI**, **SQLAlchemy**, **MySQL**, and **JWT Authentication**
+- 🌱 Currently learning **Backend Engineering**, **System Design**, and **Data Structures & Algorithms**
 - 💡 Interested in **Backend Development**, **REST APIs**, **Database Design**, and **Scalable Systems**
-- 📚 Solving **DSA problems daily** and maintaining my **LeetCode Solutions** repository
+- 📚 Solving **DSA problems daily** and maintaining my **[LeetCode Solutions](https://github.com/Erzaid04/leetcode-solutions)** repository
 - 🎯 Goal: Become a **Backend Software Engineer**
 
 ---
@@ -62,15 +63,26 @@ Passionate about building scalable backend applications and solving Data Structu
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| ♻️ **ScrapFlow AI** | AI-powered Backend SaaS for Scrap Business Management | FastAPI • SQLAlchemy • MySQL • JWT |
-| 🚂 **TransitIQ** | Machine Learning-powered Train Delay Prediction REST API | FastAPI • Scikit-learn • SQLite |
-| 😊 **Social Media Sentiment Analysis** | AI-powered Brand Monitoring Platform | Flask • VADER • SQLite |
+| Project | Description |
+|---------|-------------|
+| ♻️ **[ScrapFlow AI](https://github.com/Erzaid04/scrapflow-ai)** | AI-powered Backend SaaS for Scrap Business Management built with FastAPI, SQLAlchemy, MySQL & JWT Authentication |
+| 🚂 **TransitIQ** | Machine Learning-powered Train Delay Prediction REST API using FastAPI & Scikit-learn |
+| 😊 **Social Media Sentiment Analysis** | AI-powered Brand Monitoring Platform using Flask & VADER Sentiment Analysis |
+| 📚 **[LeetCode Solutions](https://github.com/Erzaid04/leetcode-solutions)** | Daily Data Structures & Algorithms solutions with clean explanations |
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 Current Focus
+
+- 🚀 Building production-ready Backend Applications
+- 📚 Solving DSA problems every day
+- 🏗️ Learning System Design
+- 🌱 Improving Backend Architecture
+- 🤝 Contributing to Open Source
+
+---
+
+# 📊 GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erzaid04&theme=github_dark)
 
@@ -109,15 +121,3 @@ Passionate about building scalable backend applications and solving Data Structu
 </a>
 
 </p>
-
----
-
-# 📌 Current Focus
-
-- 🚀 Building production-ready Backend Applications
-- 📚 Solving DSA problems every day
-- 🏗️ Learning System Design
-- 🌱 Improving Backend Architecture skills
-- 🤝 Contributing to Open Source
-
----
