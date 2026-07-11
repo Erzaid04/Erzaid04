@@ -132,7 +132,7 @@ Interview-focused DSA solutions in Python with clean code.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Erzaid04/Erzaid04/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+</p> 
 
 ---
 
