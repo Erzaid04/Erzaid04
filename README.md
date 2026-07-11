@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Zaid Kakar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Backend+Developer;Python+%7C+FastAPI+%7C+REST+APIs;Building+Scalable+Backend+Applications;Solving+DSA+Problems+Every+Day" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Backend+Developer;Python+%7C+FastAPI+%7C+REST+APIs;Building+Scalable+Backend+Applications;Learning+System+Design+%26+DSA" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-Backend Developer passionate about building scalable backend systems, solving Data Structures & Algorithms, and developing AI-powered applications.
+Backend Developer passionate about designing scalable backend systems, building REST APIs with FastAPI, and solving Data Structures & Algorithms.
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/zaidkakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kakarzaid786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Erzaid04&style=for-the-badge&label=Profile+Views&color=blue"/>
+<a href="https://github.com/Erzaid04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/zaidkakar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/erzaid/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:kakarzaid786@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -19,10 +31,11 @@ Backend Developer passionate about building scalable backend systems, solving Da
 # 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student (Class of **2027**)
-- 🔭 Building **ScrapFlow AI** using **FastAPI, SQLAlchemy, MySQL & JWT**
-- 🌱 Learning **Backend Engineering, System Design & Data Structures & Algorithms**
-- 📚 Solving DSA problems daily and maintaining a dedicated **LeetCode Solutions** repository
-- 🤝 Open to Backend Development and Open Source collaborations
+- 🔭 Currently building **ScrapFlow AI**, an AI-powered Scrap Management SaaS
+- 🚀 Interested in **Backend Development, REST APIs, and Scalable Systems**
+- 🌱 Learning **FastAPI, System Design, SQLAlchemy, and DSA**
+- 📚 Solving Data Structures & Algorithms daily
+- 🤝 Open to Backend Development internships and Open Source collaborations
 
 ---
 
@@ -46,12 +59,40 @@ Backend Developer passionate about building scalable backend systems, solving Da
 
 # 🚀 Featured Projects
 
-| Project | Tech Stack | Status |
-|---------|------------|:------:|
-| ♻️ **ScrapFlow AI** | FastAPI • SQLAlchemy • MySQL • JWT | 🚧 |
-| 🚂 **TransitIQ** | FastAPI • Scikit-learn • SQLite | ✅ |
-| 😊 **Social Media Sentiment Analysis** | Flask • VADER • SQLite | ✅ |
-| 📚 **LeetCode Solutions** | Python • DSA | 🚀 |
+## ♻️ ScrapFlow AI
+**AI-powered Scrap Management SaaS**
+
+**Tech Stack:** FastAPI • SQLAlchemy • MySQL • JWT
+
+🚧 Currently under development
+
+---
+
+## 🚂 TransitIQ
+
+Machine Learning API that predicts train delays.
+
+**Tech Stack:** FastAPI • Scikit-learn • SQLite
+
+✅ Completed
+
+---
+
+## 😊 Social Media Sentiment Analysis
+
+Analyzes social media posts using Natural Language Processing.
+
+**Tech Stack:** Flask • VADER • SQLite
+
+✅ Completed
+
+---
+
+## 📚 LeetCode Solutions
+
+Interview-focused DSA solutions in Python with clean code.
+
+🚀 Updated regularly
 
 ---
 
@@ -66,22 +107,28 @@ Backend Developer passionate about building scalable backend systems, solving Da
 <img width="60%" src="https://streak-stats.demolab.com?user=Erzaid04&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erzaid04&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 # 🏆 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/erzaid/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/kakarzahred/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://github.com/Erzaid04/leetcode-solutions"><img src="https://img.shields.io/badge/LeetCode%20Solutions-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://leetcode.com/u/erzaid/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/kakarzahred/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Erzaid04/leetcode-solutions">
+<img src="https://img.shields.io/badge/LeetCode%20Solutions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-💡 Solving DSA problems every day and maintaining clean, interview-focused solutions.
+💡 Consistently solving DSA problems and maintaining clean, interview-focused Python solutions.
 </p>
 
 ---
@@ -89,6 +136,17 @@ Backend Developer passionate about building scalable backend systems, solving Da
 # 📫 Connect
 
 <p align="center">
-<a href="mailto:kakarzaid786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/zaidkakar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="mailto:kakarzaid786@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/zaidkakar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Erzaid04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
